@@ -41,7 +41,7 @@ margin : 10px;
 padding : 0;
 margin-bottom: 20px;}
 #related-posts ul li {
-background: url(&quot;http://2.bp.blogspot.com/_66wIGDjagHk/Siu9RUcbv2I/AAAAAAAAAjM/gObN_C4Q-OU/s1600/poin.png&quot;) no-repeat scroll right 0 transparent;
+background: url("http://2.bp.blogspot.com/_66wIGDjagHk/Siu9RUcbv2I/AAAAAAAAAjM/gObN_C4Q-OU/s1600/poin.png") no-repeat scroll right 0 transparent;
 border-bottom: 1px dotted #CCCCCC;
 display: block;
 line-height: 2em;
